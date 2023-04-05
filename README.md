@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ozgeegorucu/ozgeegorucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ozge, a GIS Data Analyst based in Toronto, Canada.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on various GIS and data science projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m constantly learning and expanding my skills in geographic information systems (GIS), data analysis, and machine learning.
+
+👯 I’m always looking to collaborate on interesting projects related to GIS, data analysis, and data science.
+
+💬 Ask me about anything related to GIS, data analysis, or data science. I'm happy to share my knowledge and help!
+
+📫 You can reach me via email at usalozge@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ozgegorucu).
+
+😄 Pronouns: She/Her
