@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ozge, a GIS Data Analyst based in Toronto, Canada.
+I'm Ozge, a GIS Analyst and Data Analyst based in Toronto, Canada.
 
 🔭 I’m currently working on various GIS and data science projects.
 
