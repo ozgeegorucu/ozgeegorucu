@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I'm Ozge, a GIS Analyst and Data Analyst based in Toronto, Canada.
+I'm Ozge.
+🌐 GIS Coordinator | Spatial Analyst | Data Enthusiast
 
-🔭 I’m currently working on various GIS and data science projects.
+📍 Basend on ON, Canada
 
-🌱 I’m constantly learning and expanding my skills in geographic information systems (GIS), data analysis, and machine learning.
+🔭 I’m currently working on GIS and data science projects.
+
+🌱 I’m constantly learning and expanding my skills in geographic information systems (GIS), data analytics, and database management.
 
 👯 I’m always looking to collaborate on interesting projects related to GIS, data analysis, and data science.
 
