@@ -4,7 +4,7 @@ I'm Ozge.
 
 🌐 GIS Coordinator | Spatial Analyst | Data Enthusiast
 
-📍 Basend on ON, Canada
+📍 ON, Canada
 
 🔭 I’m currently working on GIS and data science projects.
 
