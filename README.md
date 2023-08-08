@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Ozge.
+
 🌐 GIS Coordinator | Spatial Analyst | Data Enthusiast
 
 📍 Basend on ON, Canada
