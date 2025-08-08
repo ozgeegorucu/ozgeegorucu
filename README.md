@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ozge.
+I'm Zoe.
 
 🌐 GIS Coordinator | Spatial Analyst | Data Enthusiast
 
