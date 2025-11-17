@@ -14,6 +14,4 @@ I'm Zoe.
 
 💬 Ask me about anything related to GIS, data analysis, or data science. I'm happy to share my knowledge and help!
 
-📫 You can reach me via email at usalozge@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ozgegorucu).
-
 😄 Pronouns: She/Her
